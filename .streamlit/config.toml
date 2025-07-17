@@ -1,0 +1,7 @@
+
+[theme]
+primaryColor = "#1f77b4"        # Deep blue
+backgroundColor = "#f0f8ff"     # Light blue (AliceBlue)
+secondaryBackgroundColor = "#dceefb"  # Soft blueish grey
+textColor = "#000000"           # Black for clean contrast
+font = "sans serif"
